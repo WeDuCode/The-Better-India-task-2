@@ -141,8 +141,8 @@ story-comments-app/
 ```json
 {
   "storyId": "story-123",
-  "userName": "Yasaswini",
-  "userEmail": "yasaswini@example.com",
+  "userName": "XXXXXXXX",
+  "userEmail": "XXXXXXxx@example.com",
   "userImage": "https://example.com/photo.jpg",
   "commentText": "Great article!",
   "createdAt": "2025-06-30T18:00:00Z"
